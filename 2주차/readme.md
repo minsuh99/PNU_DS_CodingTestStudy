@@ -48,3 +48,7 @@
 ## Option 문제
 - 문제1. 표 편집
   - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/81303
+
+---
+
+1/13 스터디 진행 (예정)
