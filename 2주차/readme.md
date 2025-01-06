@@ -9,7 +9,7 @@
 ---
 
 ## 풀어야 할 문제들
-
+### 스택
 - 문제1. 괄호 회전하기★
   - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/76502
 - 문제2. 짝지어 제거하기★
@@ -18,6 +18,7 @@
   - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42584
 - 문제4. 크레인 인형 뽑기 게임★★
   - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/64061
+### 큐
 - 문제5. 기능 개발★★
   - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42586
 - 문제6. 카드 뭉치★★
