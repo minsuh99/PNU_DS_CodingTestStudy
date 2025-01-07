@@ -40,3 +40,9 @@
 ---
 
 ## Option 문제
+
+---
+1/6 스터디 진행 (완료)
+  - enumerate, zip, lambda 함수
+  - count, remove의 시간 복잡도
+  - 더 있으면 알려주세요..
