@@ -1,4 +1,4 @@
-# 3주차 : 해쉬
+# 3주차 : 해시시
 
 ## 주의사항
 
@@ -9,7 +9,7 @@
 ---
 
 ## 풀어야 할 문제들
-### 스택
+
 - 문제1. 완주하지 못한 선수★
   - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42576
 - 문제2. 할인 행사★★
@@ -27,7 +27,7 @@
 ---
 
 ## LeetCode 연습문제
-### 스택
+
 - 문제1. 해시맵 디자인 (Design HashMap)★
   - 링크: https://leetcode.com/problems/design-hashmap/description/
 - 문제2. 보석과 돌 (Jewels and Stones) ★
