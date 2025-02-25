@@ -50,4 +50,11 @@
   - 링크: https://www.acmicpc.net/problem/15652
 - 문제 5. 카드 놓기 [실버 4]
   - 링크: https://www.acmicpc.net/problem/5568
+- 문제 6. 크면서 작은 수 [실버 3]
+  - 링크: https://www.acmicpc.net/problem/2992
+- 문제 7. 부분수열의 합 [실버 2]
+  - 링크: https://www.acmicpc.net/problem/1182
+- 문제 8. 꽃길 [실버 2]
+  - 링크: https://www.acmicpc.net/problem/14620
+
 ---
