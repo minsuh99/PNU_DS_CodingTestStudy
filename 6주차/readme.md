@@ -39,4 +39,15 @@
 
 ## Option 문제
 
+### 백준
+- 문제 1. N과 M (1) [실버 3]
+  - 링크: https://www.acmicpc.net/problem/15649
+- 문제 2. N과 M (2) [실버 3]
+  - 링크: https://www.acmicpc.net/problem/15650
+- 문제 3. N과 M (3) [실버 3]
+  - 링크: https://www.acmicpc.net/problem/15651
+- 문제 4. N과 M (4) [실버 3]
+  - 링크: https://www.acmicpc.net/problem/15652
+- 문제 5. 카드 놓기 [실버 4]
+  - 링크: https://www.acmicpc.net/problem/5568
 ---
