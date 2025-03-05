@@ -33,7 +33,7 @@ Ex)
 ### Option 사이트
 - 백준 Oneline (Option): https://www.acmicpc.net/
 
-👉 처움 문제 풀 때, 외부 사이트 검색 및 ChatGPT 사용 금지
+👉 처음 문제 풀 때, 외부 사이트 검색 및 ChatGPT 사용 금지
 
 ---
 
