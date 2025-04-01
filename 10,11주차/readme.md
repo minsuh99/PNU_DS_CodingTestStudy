@@ -13,19 +13,19 @@
 ## 풀어야 할 문제들
 
 - 문제1. 피보나치 수★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/70129
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12945
 - 문제2. 2 x n 타일링★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/132265
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12900
 - 문제3. 정수 삼각형★★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42842
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/43105
 - 문제4. 땅따먹기★★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12980
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12913
 - 문제5. 도둑질★★★★★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120861
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42897
 - 문제6. 가장 큰 정사각형 찾기★★★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120861
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12905
 - 문제7. 단어 퍼즐★★★★
-  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120861
+  - 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12983
  
 ---
 
